@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb45ccec-0946-40ad-a19d-1a72b3a358e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/stripe-button/stripe-button.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/stripe-button/stripe-button.styles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/checkout/checkout.components.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/checkout/checkout.components.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/checkout/checkout.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/checkout/checkout.styles.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/cart-dropdown/cart-dropdown.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/cart-dropdown/cart-dropdown.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574062299002</updated>
-      <workItem from="1574062300540" duration="74696000" />
+      <workItem from="1574062300540" duration="78461000" />
     </task>
     <task id="LOCAL-00001" summary="broken our homepage into smaller components, finished stylying of menu item">
       <created>1574066596816</created>
@@ -196,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574251835988</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="updating stripe integration and updating our favicon and title">
+      <created>1574256265463</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1574256265463</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,6 +231,7 @@
     <MESSAGE value="added additem and removeItem functionality to checkout-item component" />
     <MESSAGE value="moved our directory and shop data into its own reducer." />
     <MESSAGE value="moved our directory and shop data into its own reducer. Added selectors for collections." />
-    <option name="LAST_COMMIT_MESSAGE" value="moved our directory and shop data into its own reducer. Added selectors for collections." />
+    <MESSAGE value="updating stripe integration and updating our favicon and title" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating stripe integration and updating our favicon and title" />
   </component>
 </project>
