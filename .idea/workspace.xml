@@ -2,25 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb45ccec-0946-40ad-a19d-1a72b3a358e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/build/asset-manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/precache-manifest.69235744fe09cbdf88be55bbab6432d8.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/service-worker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/static/css/main.842fb824.chunk.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/static/css/main.842fb824.chunk.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/static/js/2.e75a99d2.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/static/js/2.e75a99d2.chunk.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/static/js/main.08ee6caa.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/static/js/main.08ee6caa.chunk.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/static/js/runtime-main.ee64a2a2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/static/js/runtime-main.ee64a2a2.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/static/media/crown.ed28accb.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/static/media/shopping-bag.30f07071.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -104,7 +85,7 @@
       <updated>1574062299002</updated>
       <workItem from="1574062300540" duration="78461000" />
       <workItem from="1574676480170" duration="2591000" />
-      <workItem from="1574862978468" duration="1709000" />
+      <workItem from="1574862978468" duration="2267000" />
     </task>
     <task id="LOCAL-00001" summary="broken our homepage into smaller components, finished stylying of menu item">
       <created>1574066596816</created>
