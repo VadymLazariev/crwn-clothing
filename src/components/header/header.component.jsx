@@ -1,11 +1,7 @@
 import React from 'react';
-import {Link} from "react-router-dom";
-
 import './header.styles.scss'
 
 import {ReactComponent as Logo} from "../../assets/crown.svg";
-
-import { auth } from "../../firebase/firebase.utils";
 
 import { connect } from 'react-redux';
 
@@ -25,7 +21,7 @@ import {
   OptionsContainer
 } from "./header.styles";
 
-const Header = ( { currentUser, hidden, signOutStart } ) => {
+const Header = ({ currentUser, hidden, signOutStart }) => {
   return (
     <HeaderContainer>
       <LogoContainer to='/'>

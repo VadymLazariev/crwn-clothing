@@ -2,32 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb45ccec-0946-40ad-a19d-1a72b3a358e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/collections-overview/collections-overview.container.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/collection/collections.container.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/cart/cart.sagas.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/root.saga.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/shop/shop.sagas.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/user/user.sagas.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/header/header.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/header.styles.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.styles.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/sign-in/sign-in.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sign-in/sign-in.component.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/sign-up/sign-up.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sign-up/sign-up.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/firebase/firebase.utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/firebase/firebase.utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/collection/collection.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/collection/collection.component.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/shop/shop.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/shop/shop.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/cart/cart.actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/cart/cart.actions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/cart/cart.reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/cart/cart.reducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/cart/cart.types.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/cart/cart.types.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/shop/shop.actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/shop/shop.actions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/shop/shop.reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/shop/shop.reducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/shop/shop.selector.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/shop/shop.selector.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/shop/shop.types.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/shop/shop.types.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/user/user-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/user/user-reducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/user/user.actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/user/user.actions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/user/user.types.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/user/user.types.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -236,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574677989343</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="create user and cart sagas for sign in, sign up with google">
+      <created>1574773018792</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1574773018792</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,6 +264,7 @@
     <MESSAGE value="updating stripe integration and updating our favicon and title" />
     <MESSAGE value="checkout page bugs fixed. ....cartItems changed on ...cartItem" />
     <MESSAGE value="implement cide that pulls in out ship data from firestore and stores it into the shiper reducer from our shop page. Spinner added." />
-    <option name="LAST_COMMIT_MESSAGE" value="implement cide that pulls in out ship data from firestore and stores it into the shiper reducer from our shop page. Spinner added." />
+    <MESSAGE value="create user and cart sagas for sign in, sign up with google" />
+    <option name="LAST_COMMIT_MESSAGE" value="create user and cart sagas for sign in, sign up with google" />
   </component>
 </project>
