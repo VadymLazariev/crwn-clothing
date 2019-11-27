@@ -22,7 +22,6 @@
       <change afterPath="$PROJECT_DIR$/client/build/static/media/crown.ed28accb.svg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/build/static/media/shopping-bag.30f07071.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -105,6 +104,7 @@
       <updated>1574062299002</updated>
       <workItem from="1574062300540" duration="78461000" />
       <workItem from="1574676480170" duration="2591000" />
+      <workItem from="1574862978468" duration="1709000" />
     </task>
     <task id="LOCAL-00001" summary="broken our homepage into smaller components, finished stylying of menu item">
       <created>1574066596816</created>
